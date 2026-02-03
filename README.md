@@ -1,28 +1,272 @@
-<h1 align="center">Hi 👋, I'm Subhan Ahmed</h1>
-<h3 align="center">Software Engineering student building real-world apps & AI solutions</h3>
+# Hi there, I'm Subhan Ahmed 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanahmed333&label=Profile%20views&color=0e75b6&style=flat" alt="subhanahmed333" /> </p>
+<div align="center">
+  
+### Data Scientist | ML Engineer | Mobile Developer
+*Building intelligent applications at the intersection of AI and Mobile Technology*
 
-- 🌱 I’m currently learning **Machine Learning**
+[![Portfolio](https://img.shields.io/badge/Portfolio-subhanwebsite.vercel.app-blue?style=for-the-badge&logo=vercel)](https://subhanwebsite.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subhanahmed333-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/subhanahmed333)
+[![Medium](https://img.shields.io/badge/Medium-@subhanahmed333-12100E?style=for-the-badge&logo=medium)](https://medium.com/@subhanahmed333)
+[![Kaggle](https://img.shields.io/badge/Kaggle-priceahmed-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/priceahmed)
 
-- 👨‍💻 All of my projects are available at [https://subhanwebsite.vercel.app/](https://subhanwebsite.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=subhanahmed333&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📝 I regularly write articles on [https://subhanwebsite.vercel.app/resources.html](https://subhanwebsite.vercel.app/resources.html)
+</div>
 
-- 💬 Ask me about **AI**
+---
 
-- 📫 How to reach me **subhanahmed0987654@gmail.om**
+## 🌱 My Learning Journey
 
-- 📄 Know about my experiences [https://subhanwebsite.vercel.app/](https://subhanwebsite.vercel.app/)
+> "Every expert was once a beginner. Every master was once a disaster." - T. Harv Eker
 
-- ⚡ Fun fact **I can spend hours debugging a bug… and enjoy it when it finally works.**
+I'm on an exciting journey from Software Engineering student to Machine Learning practitioner, documenting every step along the way. Here's what I'm currently exploring:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subhanahmed333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanahmed333" height="30" width="40" /></a>
-<a href="https://kaggle.com/priceahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priceahmed" height="30" width="40" /></a>
-<a href="https://medium.com/@subhanahmed333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@subhanahmed333" height="30" width="40" /></a>
-</p>
+### 📚 Currently Learning
+- **Deep Learning Architectures** - CNNs, RNNs, and Transformers
+- **Advanced ML Engineering** - Model deployment, MLOps, and production pipelines
+- **Cross-Platform Mobile Development** - React Native & Flutter for scalable apps
+- **Backend Systems** - Django REST Framework and API development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### 🎯 2026 Learning Goals
+- [ ] Complete Deep Learning Specialization (DeepLearning.AI)
+- [ ] Build and deploy 3 production ML models
+- [ ] Contribute to 2 open-source ML projects
+- [ ] Master Docker & Kubernetes for ML deployments
+- [ ] Create a comprehensive ML blog series on Medium
+
+### 📈 Recent Milestones
+- ✅ Completed Stanford ML Specialization (3-course series)
+- ✅ Built 10+ ML projects (supervised & unsupervised learning)
+- ✅ Contributed to Shell.ai Hackathon 2025
+- ✅ Completed Bytewise ML Engineering Fellowship
+- ✅ Published first article on Medium about ML workflows
+
+---
+
+## 🚀 Featured Projects & Achievements
+
+### 🏆 Hackathons & Competitions
+**Shell.ai Hackathon 2025** - Sustainable Energy Challenge
+- Developed ML models for fuel blend property prediction
+- Applied regression techniques and feature engineering
+- [View Repository →](https://github.com/Subhanahmed333/Shell.ai-Hackathon)
+
+### 🤖 Machine Learning Projects
+
+**AI Loan Predictor** 💳
+- Credit risk assessment using classification algorithms
+- Implemented Random Forest, SVM, and Logistic Regression
+- Achieved 85%+ accuracy with hyperparameter tuning
+- Tech: Python, Scikit-learn, Pandas, Seaborn
+
+**Heart Disease Prediction System** ❤️
+- Predictive healthcare analytics for early disease detection
+- Data preprocessing, feature selection, and model evaluation
+- Deployed with Flask API for real-time predictions
+- Tech: Python, TensorFlow, Flask, NumPy
+
+**100 Days of Machine Learning** 📊
+- Daily ML practice covering algorithms, theory, and applications
+- Documented journey from basics to advanced concepts
+- [Follow Progress →](https://github.com/Subhanahmed333/100DaysOfBytewise)
+
+### 📱 Mobile Development
+
+**Trove Pickup App** 🚚
+- On-demand ride-hailing platform for pickup truck services
+- Real-time tracking with Google Maps API
+- Firebase authentication and cloud storage
+- Tech: Android, Kotlin, Firebase, Google Maps API
+
+**Health is Wealth Admin** 💪
+- Gym management system with member tracking
+- Real-time scheduling and payment processing
+- Custom analytics dashboard
+- Tech: Android, Java, Firebase Realtime Database
+
+**Indus Book Marketplace** 📚
+- E-commerce platform for buying/selling books
+- Secure payment integration and order management
+- Tech: Android, Firebase, Java
+
+---
+
+## 🛠️ Technical Skills
+
+### Data Science & ML
+```python
+# Primary Stack
+languages = ["Python", "SQL"]
+ml_frameworks = ["TensorFlow", "PyTorch", "Scikit-learn"]
+data_tools = ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
+specializations = ["Supervised Learning", "Deep Learning", "Computer Vision", "NLP"]
+```
+
+### Backend Development
+```python
+# Web Frameworks
+frameworks = ["Django", "Flask", "FastAPI"]
+databases = ["PostgreSQL", "MySQL", "MongoDB", "Firebase"]
+tools = ["Docker", "Git", "Jupyter Notebook", "REST APIs"]
+```
+
+### Mobile Development
+```javascript
+// Cross-Platform & Native
+platforms = ["React Native", "Flutter", "Android (Java/Kotlin)"]
+services = ["Firebase", "Google Cloud", "RESTful APIs"]
+ui_tools = ["Figma", "Material Design"]
+```
+
+### Visualization & Design
+```python
+tools = ["Matplotlib", "Seaborn", "Plotly", "Tableau"]
+design = ["Figma", "Blender", "Unity", "Unreal Engine"]
+```
+
+---
+
+## 💼 Professional Experience
+
+**Data Science Intern** @ Buildables  
+*August 2025 - November 2025 | Remote*
+- Conducted exploratory data analysis on large datasets
+- Built predictive models for business intelligence
+- Created interactive dashboards for stakeholder presentations
+- [Verify Certificate →](https://verification.givemycertificate.com/v/31dc2b66-95ce-4352-9a89-b924ee14256b)
+
+**ML Engineer Fellow** @ Bytewise Limited  
+*June - September 2024*
+- Developed end-to-end ML pipelines from data preprocessing to deployment
+- Implemented deep learning models using TensorFlow and PyTorch
+- Collaborated on team projects using Git and Agile methodologies
+- [Verify Certificate →](https://verification.givemycertificate.com/v/d7d97716-c7ce-4728-895c-96de7c26a60d)
+
+**Android Developer** @ Health is Wealth Gym  
+*January - April 2024*
+- Built native Android app for gym administration
+- Implemented Firebase authentication and real-time database
+- Designed intuitive UI/UX following Material Design principles
+
+---
+
+## 🎓 Education & Certifications
+
+### 🏛️ Academic
+**Bachelor of Software Engineering**  
+*Expected Graduation: 2026*
+
+### 📜 Professional Certifications
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.brandfetch.io/idPv3iQPET/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="60px"><br>
+      <b>Machine Learning Specialization</b><br>
+      Stanford & DeepLearning.AI<br>
+      <a href="https://coursera.org/verify/specialization/KBX1JVLZF7KS">Verify</a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.brandfetch.io/idWvz5T3V7/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="60px"><br>
+      <b>React Native Specialization</b><br>
+      Meta<br>
+      <a href="https://coursera.org/verify/specialization/DRUQ69UNXZKP">Verify</a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.brandfetch.io/idNc9ZLSel/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="60px"><br>
+      <b>Leading People & Teams</b><br>
+      University of Michigan<br>
+      <a href="https://coursera.org/verify/specialization/HRWQNNWU0G3R">Verify</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.brandfetch.io/idcuOol42D/w/333/h/333/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="60px"><br>
+      <b>AI For Everyone</b><br>
+      DeepLearning.AI<br>
+      <a href="https://coursera.org/verify/7W9J4ISAIER9">Verify</a>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60px"><br>
+      <b>Data Science Orientation</b><br>
+      IBM<br>
+      <a href="https://www.credly.com/badges/0c797eac-2f7a-470d-934e-98b5de82836b">Verify</a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.brandfetch.io/idWvz5T3V7/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="60px"><br>
+      <b>Database Management</b><br>
+      Meta (MySQL)<br>
+      <a href="https://coursera.org/verify/E3UQYTEESWTW">Verify</a>
+    </td>
+  </tr>
+</table>
+
+**Leadership Training**  
+Aspire Leaders Program - Harvard University (March 2025)  
+*40 hours of leadership coursework*
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+I regularly write about Machine Learning, Data Science, and Mobile Development on [Medium](https://medium.com/@subhanahmed333). Check out my latest articles:
+
+- 🤖 ML Model Deployment Best Practices
+- 📊 Data Preprocessing Techniques for Better Accuracy
+- 📱 Building Scalable Mobile Apps with Firebase
+- 🔍 Feature Engineering for Predictive Models
+
+[Read More on Medium →](https://medium.com/@subhanahmed333)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+I'm always excited to collaborate on innovative projects, especially those involving:
+- 🤖 Machine Learning & AI applications
+- 📱 Cross-platform mobile development
+- 🌐 Full-stack web applications with Django
+- 📊 Data science and analytics projects
+- 🎓 Open-source contributions in ML/AI
+
+### 💬 Ask Me About
+- Machine Learning algorithms and model optimization
+- Mobile app development (Android, React Native, Flutter)
+- Python backend development with Django/Flask
+- Data visualization and exploratory data analysis
+- Career transitions into Data Science
+
+### 📫 How to Reach Me
+- **Email:** [subhanchandio152@gmail.com](mailto:subhanchandio152@gmail.com)
+- **LinkedIn:** [linkedin.com/in/subhanahmed333](https://linkedin.com/in/subhanahmed333)
+- **Portfolio:** [subhanwebsite.vercel.app](https://subhanwebsite.vercel.app/)
+- **Medium:** [@subhanahmed333](https://medium.com/@subhanahmed333)
+
+---
+
+## ⚡ Fun Facts About Me
+
+- 🐛 I can spend hours debugging a bug... and genuinely enjoy it when it finally works!
+- 📚 Currently reading research papers on Transformer architectures
+- 🎯 Completed 100+ days of consistent coding on my ML journey
+- 🌍 Based in Hyderabad, Pakistan - building global solutions locally
+- 🎨 Hobby game developer with Unity and Unreal Engine
+- 🏋️ Former gym admin app developer - yes, I code and lift!
+
+---
+
+<div align="center">
+
+### 🌟 "The best way to predict the future is to invent it." - Alan Kay
+
+**Currently Available for:**  
+Internships | Freelance Projects | Open Source Collaboration | Research Opportunities
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+⭐️ From [Subhanahmed333](https://github.com/Subhanahmed333) | Last Updated: February 2026
+
+</div>
