@@ -5,7 +5,7 @@
 ### Data Scientist | ML Engineer | Mobile Developer
 *Building intelligent applications at the intersection of AI and Mobile Technology*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square)](https://subhanwebsite.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square)](https://subhanahmed.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square)](https://linkedin.com/in/subhanahmed333)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=flat-square)](https://medium.com/@subhanahmed333)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square)](https://kaggle.com/priceahmed)
